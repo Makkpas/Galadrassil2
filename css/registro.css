@@ -121,7 +121,7 @@
 
 @media screen 
   and (device-width: 360px) 
-  and (device-height: 740px) 
+  and (device-height: 640px) 
   and (orientation: portrait) {
 
     .background{
